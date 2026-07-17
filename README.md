@@ -240,37 +240,37 @@ storage/
 
 ## Dashboard Client
 
-![Dashboard Client](docs/Dashboard Client.PNG)
+![Dashboard Client](docs/Dashboard-Client.PNG)
 
 ---
 
 ## Client Cari Jasa
 
-![Client Cari Jasa](docs/Client Cari Jasa.PNG)
+![Client Cari Jasa](docs/Client-Cari-Jasa.PNG)
 
 ---
 
 ## Riwayat Booking Client
 
-![Riwayat Booking Client](docs/Riwayat Booking CLient,PNG)
+![Riwayat Booking Client](docs/Riwayat-Booking-CLient,PNG)
 
 ---
 
 ## Dashboard Freelancer
 
-![Dashboard Freelancer](docs/Dashboard Freelancer.PNG)
+![Dashboard Freelancer](docs/Dashboard-Freelancer.PNG)
 
 ---
 
 ## Jasa Freelancer
 
-![Jasa Freelancer](docs/Jasa Freelancer.PNG)
+![Jasa Freelancer](docs/Jasa-Freelancer.PNG)
 
 ---
 
 ## Pesanan Masuk Freelancer
 
-![Pesanan Masuk Freelancer](docs/Pesanan Masuk Freelancer.PNG)
+![Pesanan Masuk Freelancer](docs/Pesanan-Masuk-Freelancer.PNG)
 
 ---
 
