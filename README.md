@@ -252,7 +252,7 @@ storage/
 
 ## Riwayat Booking Client
 
-![Riwayat Booking Client](docs/Riwayat-Booking-Client,PNG)
+![Riwayat Booking Client](docs/Riwayat-Booking-Client.PNG)
 
 ---
 
