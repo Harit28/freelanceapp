@@ -252,7 +252,7 @@ storage/
 
 ## Riwayat Booking Client
 
-![Riwayat Booking Client](docs/Riwayat-Booking-CLient,PNG)
+![Riwayat Booking Client](docs/Riwayat-Booking-Client,PNG)
 
 ---
 
@@ -264,7 +264,7 @@ storage/
 
 ## Jasa Freelancer
 
-![Jasa Freelancer](docs/Jasa-Freelancer.PNG)
+![Jasa Freelancer](docs/Jasa-freelancer.PNG)
 
 ---
 
