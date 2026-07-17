@@ -160,7 +160,7 @@ git clone (https://github.com/Harit28/freelanceapp.git)
 Masuk folder project
 
 ```bash
-cd freelanceapp
+cd jasa-freelance
 ```
 
 Install dependency
