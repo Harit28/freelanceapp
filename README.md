@@ -270,7 +270,7 @@ storage/
 
 ## Pesanan Masuk Freelancer
 
-![Pesanan Masuk Freelancer](docs/Pesanan-Masuk-Freelancer.PNG)
+![Pesanan Masuk Freelancer](docs/Pesananan-Masuk-Freelancer.PNG)
 
 ---
 
